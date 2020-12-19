@@ -21,11 +21,7 @@ To simplify the program,the code utilises an API to call the api and recieve all
 - Linkedin : https://www.linkedin.com/in/rahul-arepaka-449587142/
 - Instagram : https://www.instagram.com/rahularepaka/
 
-## Prakhar Gupta
-- Linkedin : https://www.linkedin.com/in/prakhar-gupta-43830a73/
-- Instagram : https://www.instagram.com/prakhar.g2001/
 
 ## 📞 Contact 📞
 - Email : rahul20ucse156@mahindrauniversity.edu.in
-- Email : prakhar20ucse125@mahindrauniversity.edu.in
 
