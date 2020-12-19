@@ -2,6 +2,7 @@
 
 
 ### Food Edition 🧁
+## Enigma CS MU CLUB - Mini Python Project Series 
 
 The following python program will generate recipes and Diet-labels from the given ingredients and will create text file with the details inside the file such Recipes and Diet-label along with Heading of the Ingredient and Date and Time of the file created.
 
