@@ -9,7 +9,9 @@ def recipe_search(ingredient):
     api_key = '7a7cd9b85dd6e0d516903b7c2d582bfa'
     application_id = 'a720f909'
     url = 'https://api.edamam.com/search?app_id={}&app_key={}&q={}'.format(application_id, api_key, ingredient)
+    # Opening the URL
     result = urllib.request.urlopen(url)
+    # Converting the information to JSON File Format
     data = json.load(result)
     return data['hits']
 
