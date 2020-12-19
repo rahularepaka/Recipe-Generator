@@ -1,4 +1,4 @@
-#  🧁 Project : Generating Food Recipes From Given Ingredient 🧁
+#  🧁 Generating Food Recipes From Given Ingredient 🧁
 
 ## 💻 Enigma CS MU CLUB - Mini Python Project Series 💻
 
