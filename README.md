@@ -12,12 +12,12 @@ To simplify the program,the code utilises an API to call the api and recieve all
 - Json in-built library
 - Date and Time in-built library
 
-## How to Run 
+## 🏃‍ How to Run 🏃‍
 - clone the repo
 - Open the file and go to 25th line to replace the file location
 - Run the main .py file
 - Enter the Ingredient or food related dish
-- Once done, the text file with list of recipes will be present in the same cloned repo folder
+- Once done, the text file with list of recipes will be present in the folder
 
 ## 🪓 Tools 🪓
 - VScode - Text Editor
