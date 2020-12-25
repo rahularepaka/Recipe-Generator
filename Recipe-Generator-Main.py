@@ -22,7 +22,8 @@ ingredient = input('Enter an ingredient: ')
 opname = ingredient + '-recipes.txt'
 
 # File Location 
-outFileName = "D:\\Python - Projects\\food_reciepe\\" + str(opname)
+intifile = "D:\\Python - Projects\\food_reciepe\\" #Please enter the file directory for the file to be saved
+outFileName = intifile + str(opname) 
 
 #Creating the File with Encoding
 report = open(outFileName, "w", encoding="utf-8")
