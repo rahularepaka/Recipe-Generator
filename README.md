@@ -6,29 +6,29 @@ The following python program will generate recipes and Diet-labels from the give
 
 To simplify the program,the code utilises an API to call the api and recieve all the details of the food reciepes.
 
-## ✅ Requirements ✅
+## Requirements ✅
+```
 - Python 3.7
 - Urllib in-built library
 - Json in-built library
 - Date and Time in-built library
+```
 
-## 🏃‍ How to Run 🏃‍
+## How to Run 🏃‍
+```
 - clone the repo
 - Open the file and go to 25th line to replace the file location
 - Run the main .py file
 - Enter the Ingredient or food related dish
 - Once done, the text file with list of recipes will be present in the folder
+```
 
-## 🪓 Tools 🪓
-- VScode - Text Editor
-
-## 😀 Author 😀
-
-## Rahul Arepaka
+## Author 😀
+Rahul Arepaka
 - Linkedin : https://www.linkedin.com/in/rahul-arepaka-449587142/
 - Instagram : https://www.instagram.com/rahularepaka/
 
 
-## 📞 Contact 📞
+## Contact 📞
 - Email : rahul20ucse156@mahindrauniversity.edu.in
 
